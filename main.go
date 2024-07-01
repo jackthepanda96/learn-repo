@@ -7,3 +7,4 @@ func main() {
 	fmt.Println("Semangat ges yak, setiap orang yang rajin...")
 	fmt.Println("pasti akan mendapatkan bagiannya")
 }
+test test
